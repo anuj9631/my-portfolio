@@ -35,7 +35,7 @@ const INFO = {
 		{
 			title: "Google-Gemini_Clone",
 			description:
-				"Built Gemini web app with React.js, integrating Gemini Generative AI for enhanced functionality.",
+				"Built Gemini web app with React.js, integrating Gemini Generative AI.",
 			logo: "https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png",
 			linkText: "View Project",
 			link: "https://github.com/anuj9631/Gemini-clone",
@@ -44,7 +44,7 @@ const INFO = {
 		{
 			title: "Forum-Website-Chatsphere",
 			description:
-				"Online forum project primarily revolves around web development and database management.",
+				"Online forum primarily revolves around web development and database management.",
 			logo: "https://testrigor.com/wp-content/uploads/2023/04/php_logo_square.png",
 			linkText: "View Project",
 			link: "https://github.com/anuj9631/Forum-website-chatsphere",
@@ -53,7 +53,7 @@ const INFO = {
 		{
 			title: "Messenger-Clone",
 			description:
-				"Configured MongoDB, implemented Next.js with React, Tailwind CSS, Next-auth, Pusher for real-time, TypeScript.",
+				"Built a Full Stack Messenger Clone web  with Nextjs and MongoDB",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png",
 			linkText: "View Project",
 			link: "https://github.com/anuj9631/messenger-video",
@@ -62,7 +62,7 @@ const INFO = {
 		{
 			title: "Restaurant-management-system",
 			description:
-				"Web application developed using PHP as the server-side language, and HTML, CSS and JS as front-end.",
+				"Web application using PHP and HTML/CSS and JS as front-end.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com/anuj9631/Restaurant_management_system",
@@ -71,7 +71,7 @@ const INFO = {
 		{
 			title: "Email-spam-classifier",
 			description:
-				"Employed Jupyter Notebook, implementd text preprocessing with NLTK and Scikit-learn libraries Python.",
+				"Employed Jupyter Notebook and Built Email-spam-classifier using Python libraries.",
 				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com/anuj9631",
