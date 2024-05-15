@@ -20,7 +20,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Anuj Kumar, I am from Durapur India, where I am pursuing my Bachelors.",
+		title: "I’m Anuj Kumar, I am from Durgapur India, where I am pursuing my Bachelors.",
 		description:
 			"Throughout my career journey, I've able to develop a strong understanding of computer programming languages like c, Java and Python and concepts like RDBMS, OOPs, Data Structures.My skill set encompasses proficiency in Verint development, expertise in web development MERN and AI/ML.I have completed two month internship from Celebal technologies in the data science domain where i gained valueble exposure to how data science used in practice. Also i have completed one month traning from Indian School of Ethical Hacking in the web development domain. ",
 	},
