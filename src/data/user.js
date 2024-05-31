@@ -44,7 +44,7 @@ const INFO = {
 		{
 			title: "Forum-Website-Chatsphere",
 			description:
-				"Online forum primarily revolves around web development and database management.",
+				"Online forum primarily revolves around web development and DBMS.",
 			logo: "https://testrigor.com/wp-content/uploads/2023/04/php_logo_square.png",
 			linkText: "View Project",
 			link: "https://github.com/anuj9631/Forum-website-chatsphere",
@@ -74,7 +74,7 @@ const INFO = {
 				"Employed Jupyter Notebook and Built Email-spam-classifier using Python libraries.",
 				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com/anuj9631",
+			link: "https://github.com/anuj9631/email-spam-classifier",
 		},
 	],
 };
