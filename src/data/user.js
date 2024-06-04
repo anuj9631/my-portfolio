@@ -11,6 +11,7 @@ const INFO = {
 		github: "https://github.com/anuj9631",
 		linkedin: "https://www.linkedin.com/in/anuj-kumar9631/",
 		instagram: "https://instagram.com/anuj_ekghara",
+		naukri: "https://www.naukri.com/mnjuser/profile?id=&altresid",
 	},
 
 	homepage: {
