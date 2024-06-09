@@ -15,7 +15,7 @@ const Article2 = (props) => {
 					<div className="homepage-article-title">Soft Skills</div>
 					<div className="homepage-article-link">
 						<Link to={link}>
-							Good Communication Skills{" "}, Leadership{" "}, Problem Solving{" "}, Team Player{" "}
+							 Communication Skills{" "}, Leadership{" "}, Problem Solving{" "}, Team Player{" "}
 
 						</Link>
 					</div>
