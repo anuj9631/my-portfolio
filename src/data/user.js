@@ -11,6 +11,7 @@ const INFO = {
 		github: "https://github.com/anuj9631",
 		linkedin: "https://www.linkedin.com/in/anuj-kumar9631/",
 		instagram: "https://instagram.com/anuj_ekghara",
+		naukri: "https://www.naukri.com/mnjuser/profile?id=&altresid",
 	},
 
 	homepage: {
@@ -20,6 +21,7 @@ const INFO = {
 	},
 
 	about: {
+
 		title: "I’m Anuj Kumar, I am from Giridih Jharkhand(India).",
 		description:
 			"Throughout my career journey, I've able to develop a strong understanding of computer programming languages like C, Java and Python and concepts like RDBMS, OOPs, Data Structures.My skill set encompasses proficiency in Verint development, expertise in web development MERN and AI/ML.I have completed two month internship from Celebal technologies in the data science domain where i gained valueble exposure to how data science used in practice. Also i have completed one month traning from Indian School of Ethical Hacking in the web development domain. ",
@@ -44,7 +46,7 @@ const INFO = {
 		{
 			title: "Forum-Website-Chatsphere",
 			description:
-				"Online forum primarily revolves around web development and database management.",
+				"Online forum primarily revolves around web development and DBMS.",
 			logo: "https://testrigor.com/wp-content/uploads/2023/04/php_logo_square.png",
 			linkText: "View Project",
 			link: "https://github.com/anuj9631/Forum-website-chatsphere",
@@ -74,7 +76,7 @@ const INFO = {
 				"Employed Jupyter Notebook and Built Email-spam-classifier using Python libraries.",
 				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com/anuj9631",
+			link: "https://github.com/anuj9631/email-spam-classifier",
 		},
 	],
 };
