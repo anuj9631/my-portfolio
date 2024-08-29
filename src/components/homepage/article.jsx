@@ -16,7 +16,7 @@ const Article = (props) => {
 					
 					<div className="homepage-article-link">
 						<Link to={link}>
-							C{" "}, Java{" "}, Python{" "}, ReactJS{" "}, Node.js{" "}, Express.js{" "}, RDBMS{" "}, Data Structures{" "}, OOPs{" "}, Php{" "}, HTML{" "}, CSS{" "}, JavaScript{" "}, Git{" "}, MySQL{" "}, MongoDB{" "}
+							C{" "}, Java{" "}, Python{" "}, ReactJS{" "}, Node.js{" "}, Express.js{" "}, RDBMS{" "}, Data Structures{" "}, OOPs{" "}, Php{" "}, HTML{" "}, CSS{" "}, JavaScript{" "}, Git{" "}, MySQL{" "}, MongoDB{" "}, Computer Network{" "}, Operating System{" "}
 
 						</Link>
 					</div>
