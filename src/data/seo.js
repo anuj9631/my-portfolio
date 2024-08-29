@@ -2,14 +2,14 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"Verint developer seeks software role focusing on emerging technologies.",
+			"Software Developer with a passion for emerging technologies.",
 		keywords: ["Anuj Kumar", "Anuj Ekghara", "Anuj Kumar"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am Anuj. I am currently pursuing Bachelor of computer application from Dr. B. C. Roy Engineering College Durgapur.I am an eager Learner constantly striving to improve my skills and stay ahead of the latest trend in the tech field.",
+			"I am Anuj. I am Anuj, a recent graduate with a Bachelor of Computer Application from Dr. B. C. Roy Engineering College Durgapur.I am an eager Learner constantly striving to improve my skills and stay ahead of the latest trend in the tech field.",
 			keywords: ["Anuj Kumar", "Anuj Ekghara", "Anuj Kumar"],
 	},
 

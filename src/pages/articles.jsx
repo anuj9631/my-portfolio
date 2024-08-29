@@ -56,7 +56,7 @@ const Articles = () => {
 				        <li>Experience with web development and Back-end frameworks React and Node.</li>
 								<li>Excellent communication and collaboration abilities for effective team dynamics.</li>
 							</ul>
-							<a href="https://drive.google.com/file/d/1mjf8iBku4_1TUic01Kx_TzgZr55EpBJG/view?usp=sharing"><button className="button">Download Resume</button></a>
+							<a href="https://drive.google.com/file/d/1suPie_f9SrSuOy_tLXzXZkbP6dG4EnFF/view?usp=sharing"><button className="button">Download Resume</button></a>
 							
 						</div>
        

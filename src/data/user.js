@@ -14,15 +14,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Verint developer seeks software role focusing on emerging technologies.",
+		title: "Software Developer with a passion for emerging technologies.",
 		description:
-			"I am Anuj. I am currently pursuing Bachelor of computer application from Dr. B. C. Roy Engineering College Durgapur.I am an eager Learner constantly striving to improve my skills and stay ahead of the latest trend in the tech field.I am also a Team Player and Enjoy Collaborating on projects.I am confident that my strong academic background and enthusiasm for this industry will make me a great assest to any team.",
+			"I am Anuj, a recent graduate with a Bachelor of Computer Application from Dr. B. C. Roy Engineering College Durgapur. As an eager learner, I constantly strive to improve my skills and stay ahead of the latest trends in the tech field. I am a team player who enjoys collaborating on projects, and I am confident that my strong academic background and enthusiasm for the industry will make me a valuable asset to any team.",
 	},
 
 	about: {
-		title: "I’m Anuj Kumar, I am from Durgapur India, where I am pursuing my Bachelors.",
+		title: "I’m Anuj Kumar, I am from Giridih Jharkhand(India).",
 		description:
-			"Throughout my career journey, I've able to develop a strong understanding of computer programming languages like c, Java and Python and concepts like RDBMS, OOPs, Data Structures.My skill set encompasses proficiency in Verint development, expertise in web development MERN and AI/ML.I have completed two month internship from Celebal technologies in the data science domain where i gained valueble exposure to how data science used in practice. Also i have completed one month traning from Indian School of Ethical Hacking in the web development domain. ",
+			"Throughout my career journey, I've able to develop a strong understanding of computer programming languages like C, Java and Python and concepts like RDBMS, OOPs, Data Structures.My skill set encompasses proficiency in Verint development, expertise in web development MERN and AI/ML.I have completed two month internship from Celebal technologies in the data science domain where i gained valueble exposure to how data science used in practice. Also i have completed one month traning from Indian School of Ethical Hacking in the web development domain. ",
 	},
 
 	articles: {
