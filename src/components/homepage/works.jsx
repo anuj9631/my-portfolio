@@ -13,6 +13,18 @@ const Works = () => {
 				title="Work"
 				body={
 					<div className="works-body">
+						 <div className="work">
+							<img
+								src="./xl-image.png"
+								alt="XL Dynamics"
+								className="work-image"
+							/>
+							<div className="work-title">XL Dynamics India Pvt. Ltd.</div>
+							<div className="work-subtitle">
+								Junior Analyst
+							</div>
+							<div className="work-duration">Sep 2024 - Current</div>
+						</div>
             <div className="work">
 							<img
 								src="./lawcrats.jpg"
@@ -23,7 +35,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Software Engineer intern
 							</div>
-							<div className="work-duration">Aug 2024 - Current</div>
+							<div className="work-duration">Aug 2024 - Sep 2024</div>
 						</div>
 
 						<div className="work">
