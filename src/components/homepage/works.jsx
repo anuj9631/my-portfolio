@@ -15,13 +15,13 @@ const Works = () => {
 					<div className="works-body">
 						 <div className="work">
 							<img
-								src="./xl-image.png"
+								src="./xl -image.png"
 								alt="XL Dynamics"
 								className="work-image"
 							/>
 							<div className="work-title">XL Dynamics India Pvt. Ltd.</div>
 							<div className="work-subtitle">
-								Junior Analyst
+							Junior Analyst
 							</div>
 							<div className="work-duration">Sep 2024 - Current</div>
 						</div>
