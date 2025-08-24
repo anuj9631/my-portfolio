@@ -52,7 +52,7 @@ const Articles = () => {
 								<li>Experience with web development and backend frameworks like React and Node.</li>
 								<li>Excellent communication and collaboration abilities for effective team dynamics.</li>
 							</ul>
-							<a href="https://drive.google.com/file/d/1suPie_f9SrSuOy_tLXzXZkbP6dG4EnFF/view?usp=sharing">
+							<a href="mailto:anuj98426@gmail.com">
 								<button className="button">Download Resume</button>
 							</a>
 						</div>
