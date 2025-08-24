@@ -20,6 +20,8 @@ const AllProjects = () => {
 					/>
 				</div>
 			))}
+			<a href="https://github.com/anuj9631" className="more-projects-link"> More Projects... </a>
+
 		</div>
 	);
 };
