@@ -17,7 +17,7 @@ const INFO = {
 	homepage: {
 		title: "Software Developer with a passion for emerging technologies.",
 		description:
-			"I am Anuj, a recent graduate with a Bachelor of Computer Application from Dr. B. C. Roy Engineering College, Durgapur, and currently pursuing a Master of Computer Applications from the Indian Institute of Technology, Patna. As an eager learner, I constantly strive to improve my skills and stay ahead of the latest trends in the tech field. I am a team player who enjoys collaborating on projects, and I am confident that my strong academic background and enthusiasm for the industry will make me a valuable asset to any team.",
+			"I am Anuj, Currently pursuing a Master of Computer Applications from the Indian Institute of Technology, Patna. and graduated with a Bachelor of Computer Application from Dr. B. C. Roy Engineering College, Durgapur,  As an eager learner, I constantly strive to improve my skills and stay ahead of the latest trends in the tech field. I am a team player who enjoys collaborating on projects, and I am confident that my strong academic background and enthusiasm for the industry will make me a valuable asset to any team.",
 	},
 
 	about: {
@@ -34,6 +34,26 @@ const INFO = {
 	},
 
 	projects: [
+			{
+			title: "Email-spam-classifier",
+			description:
+				"Employed Jupyter Notebook and Built Email-spam-classifier using Python libraries.",
+				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://github.com/anuj9631/email-spam-classifier",
+		},
+
+
+		{
+			title: "Agency-AI",
+			description:
+				"A modern, responsive platform to showcase services and connect with clients.",
+				logo: "https://agencyai-anujdev.vercel.app/assets/logo-CpnJpnzw.svg",
+			linkText: "View Project",
+			link: "https://github.com/anuj9631/agency_ai",
+		},
+
+
 		{
 			title: "Google-Gemini_Clone",
 			description:
@@ -70,14 +90,6 @@ const INFO = {
 			link: "https://github.com/anuj9631/Restaurant_management_system",
 		},
 
-		{
-			title: "Email-spam-classifier",
-			description:
-				"Employed Jupyter Notebook and Built Email-spam-classifier using Python libraries.",
-				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com/anuj9631/email-spam-classifier",
-		},
 	],
 };
 

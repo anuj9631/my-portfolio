@@ -15,9 +15,20 @@ const Article = (props) => {
 					<div className="homepage-article-title">Technical Skills</div>
 					
 					<div className="homepage-article-link">
-						<Link to={link}>
-							C{" "}, Java{" "}, Python{" "}, ReactJS{" "}, Node.js{" "}, Express.js{" "}, RDBMS{" "}, Data Structures{" "}, OOPs{" "}, Php{" "}, HTML{" "}, CSS{" "}, JavaScript{" "}, Git{" "}, MySQL{" "}, MongoDB{" "}, Computer Network{" "}, Operating System{" "}
+						<h4 style={{ margin: 0, padding: 0, display: "inline", marginRight: "10px" }}>Programming Languages:</h4>
 
+						<Link to={link}>
+						C, Java, Python
+							</Link>
+							<br />
+							<h4 style={{ margin: 0, padding: 0, display: "inline", marginRight: "10px" }}>Web Technologies:</h4>
+							<Link to={link}>
+							   HTML, CSS, JavaScript, ReactJS, Node.js, Express.js
+								</Link>
+							<br/>
+								<h4 style={{ margin: 0, padding: 0, display: "inline", marginRight: "10px" }}>Core: </h4>
+							<Link to={link}>
+						RDBMS, Data Structures, OOPs, MySQL, Computer Network, Operating System, Git, Machine Learning
 						</Link>
 					</div>
 					
