@@ -23,12 +23,12 @@ const Article = (props) => {
 							<br />
 							<h4 style={{ margin: 0, padding: 0, display: "inline", marginRight: "10px" }}>Web Technologies:</h4>
 							<Link to={link}>
-							   HTML, CSS, JavaScript, ReactJS, Node.js, Express.js
+							   HTML, CSS, JavaScript, ReactJS, Node.js, 
 								</Link>
 							<br/>
 								<h4 style={{ margin: 0, padding: 0, display: "inline", marginRight: "10px" }}>Core: </h4>
 							<Link to={link}>
-						RDBMS, Data Structures, OOPs, MySQL, Computer Network, Operating System, Git, Machine Learning
+						RDBMS, Data Structures, OOPs, MySQL, Computer Network, Operating System, Git, Machine Learning, Postman
 						</Link>
 					</div>
 					
