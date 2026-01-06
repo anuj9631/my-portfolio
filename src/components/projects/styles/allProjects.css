@@ -20,3 +20,27 @@
 		width: calc(100% / 2);
 	}
 }
+
+.button {
+  color: #fff;
+  padding: 8px 16px;            /* reduced padding */
+  background-color: #38D2D2;
+  background-image: 
+    radial-gradient(93% 87% at 87% 89%, rgba(0, 0, 0, 0.23) 0%, transparent 86.18%),
+    radial-gradient(66% 66% at 26% 20%, rgba(255, 255, 255, 0.55) 0%, rgba(255, 255, 255, 0) 69.79%, rgba(255, 255, 255, 0) 100%);
+  
+  box-shadow: 
+    inset -2px -2px 6px rgba(255, 255, 255, 0.25),
+    inset 0px 2px 6px rgba(255, 255, 255, 0.3),
+    1px 8px 16px rgba(0, 0, 0, 0.2);
+
+  border-radius: 10px;          /* slightly smaller radius */
+  font-weight: 600;
+  font-size: 14px;              /* reduced font size */
+  border: 0;
+
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}

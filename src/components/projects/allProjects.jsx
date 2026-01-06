@@ -20,7 +20,8 @@ const AllProjects = () => {
 					/>
 				</div>
 			))}
-			<a href="https://github.com/anuj9631" className="more-projects-link"> More Projects... </a>
+			<a href="https://github.com/anuj9631" className="more-projects-link"> <button className="button">More Projects...</button> </a>
+			
 
 		</div>
 	);

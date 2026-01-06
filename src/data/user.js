@@ -3,7 +3,7 @@ const INFO = {
 		title: "Anuj portfolio",
 		name: "Anuj Kumar.",
 		email: "anuj98426@gmail.com",
-		logo: "../logo.png",
+		logo: "../logo.jpg",
 	},
 
 	socials: {
@@ -35,14 +35,13 @@ const INFO = {
 
 	projects: [
 			{
-			title: "Email-spam-classifier",
+			title: "Quick AI",
 			description:
-				"Employed Jupyter Notebook and Built Email-spam-classifier using Python libraries.",
-				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				" An AI-powered SaaS platform to create content and images instantly, faster and smarter.",
+				logo: "https://quickai-anujdev.vercel.app/assets/logo-Cg_ynwZg.svg",
 			linkText: "View Project",
-			link: "https://email-spam-classifier-4l9x.onrender.com/",
+			link: "https://quickai-anujdev.vercel.app/",
 		},
-
 
 		{
 			title: "Agency-AI",
@@ -62,6 +61,24 @@ const INFO = {
 			link: "https://quick-gpt-anuj.vercel.app/",
 		},
 
+    {
+			title: "Quick Chat",
+			description:
+				"A real-time chat platform for seamless, fast, and secure conversations.",
+				logo: "data:image/png;base64,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",
+			linkText: "View Project",
+			link: "https://chat-app-akdev.vercel.app/",
+		},
+
+		{
+			title: "Email-spam-classifier",
+			description:
+				"Employed Jupyter Notebook and Built Email-spam-classifier using Python libraries.",
+				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://email-spam-classifier-4l9x.onrender.com/",
+		},
+
 		{
 			title: "Google-Gemini_Clone",
 			description:
@@ -71,23 +88,23 @@ const INFO = {
 			link: "https://gemini-clone-anuj.vercel.app/",
 		},
 
-		{
-			title: "Forum-Website-Chatsphere",
-			description:
-				"Online forum primarily revolves around web development and DBMS.",
-			logo: "https://testrigor.com/wp-content/uploads/2023/04/php_logo_square.png",
-			linkText: "View Project",
-			link: "https://github.com/anuj9631/Forum-website-chatsphere",
-		},
+		// {
+		// 	title: "Forum-Website-Chatsphere",
+		// 	description:
+		// 		"Online forum primarily revolves around web development and DBMS.",
+		// 	logo: "https://testrigor.com/wp-content/uploads/2023/04/php_logo_square.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com/anuj9631/Forum-website-chatsphere",
+		// },
 
-		{
-			title: "Messenger-Clone",
-			description:
-				"Built a Full Stack Messenger Clone web  with Nextjs and MongoDB",
-			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png",
-			linkText: "View Project",
-			link: "https://github.com/anuj9631/messenger-video",
-		},
+		// {
+		// 	title: "Messenger-Clone",
+		// 	description:
+		// 		"Built a Full Stack Messenger Clone web  with Nextjs and MongoDB",
+		// 	logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com/anuj9631/messenger-video",
+		// },
 
 		// {
 		// 	title: "Restaurant-management-system",
