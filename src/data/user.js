@@ -15,7 +15,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Software Developer with a passion for emerging technologies.",
+		title: "Aspiring Technology Professional with experience in modern tools and technologies",
 		description:
 			"I am Anuj, Currently pursuing a Master of Computer Applications from the Indian Institute of Technology, Patna. and graduated with a Bachelor of Computer Application from Dr. B. C. Roy Engineering College, Durgapur,  As an eager learner, I constantly strive to improve my skills and stay ahead of the latest trends in the tech field. I am a team player who enjoys collaborating on projects, and I am confident that my strong academic background and enthusiasm for the industry will make me a valuable asset to any team.",
 	},
