@@ -73,7 +73,7 @@ const INFO = {
 		{
 			title: "Email-spam-classifier",
 			description:
-				"Employed Jupyter Notebook and Built Email-spam-classifier using Python libraries.",
+				"Employed Jupyter Notebook and Built Email-spam-classifier using Python lib.",
 				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://email-spam-classifier-4l9x.onrender.com/",
